@@ -1,0 +1,7 @@
+{
+  "name": "finger-skate",
+  "version": "1.0.0",
+  "description": "Opens Finger Skate's skate mode while Claude works, and closes it when Claude is done.",
+  "author": { "name": "Antoine Gaïa", "email": "contact@appsheroes.app" },
+  "homepage": "https://appsheroes.app"
+}

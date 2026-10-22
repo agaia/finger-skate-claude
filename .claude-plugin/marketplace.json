@@ -1,0 +1,15 @@
+{
+  "name": "appsheroes",
+  "description": "Claude Code plugins by AppsHeroes.",
+  "owner": {
+    "name": "Antoine Gaïa",
+    "email": "contact@appsheroes.app"
+  },
+  "plugins": [
+    {
+      "name": "finger-skate",
+      "source": "./finger-skate",
+      "description": "Opens Finger Skate's skate mode while Claude works, and closes it when Claude is done."
+    }
+  ]
+}
