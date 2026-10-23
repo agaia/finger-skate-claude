@@ -1,6 +1,6 @@
 # Finger Skate for Claude Code
 
-Skate while Claude works: this plugin opens [Finger Skate](https://appsheroes.app)'s skate mode once Claude has been
+Skate while Claude works: this plugin opens [Finger Skate](https://fingerskate.app)'s skate mode once Claude has been
 working a few seconds, and closes it when Claude is done or needs you.
 
 ```sh
